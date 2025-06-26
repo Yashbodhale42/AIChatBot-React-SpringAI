@@ -59,4 +59,4 @@ SSE (Server-Sent Events)
 
 👤 Author
 Yash Bodhale
-GitHub
+[GitHub](https://github.com/Yashbodhale42)
