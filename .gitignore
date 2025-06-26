@@ -1,0 +1,54 @@
+# ========== Build & Dependency Folders ==========
+/target/
+build/
+.mvn/
+*.class
+*.jar
+*.war
+*.ear
+
+# ========== Maven Wrapper ==========
+.mvn/wrapper/maven-wrapper.jar
+
+# ========== Logs ==========
+*.log
+logs/
+*.out
+
+# ========== OS-Specific ==========
+.DS_Store
+Thumbs.db
+
+# ========== IDEs ==========
+# IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse / STS
+.classpath
+.project
+.settings/
+.apt_generated
+.factorypath
+.springBeans
+.sts4-cache
+
+# VSCode
+.vscode/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# ========== Environment & Config ==========
+.env
+*.properties.local
+*.yml.local
+
+# ========== Misc ==========
+HELP.md

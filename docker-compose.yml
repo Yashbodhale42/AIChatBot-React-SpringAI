@@ -1,0 +1,15 @@
+version: '3.9'
+
+services:
+  local-ai-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "9090:9090"
+    environment:
+      - spring.ai.ollama.base-url=http://host.docker.internal:11434
+      - SPRING_AI_OLLAMA_MODEL=mistral
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+    container_name: local-ai-app
+
