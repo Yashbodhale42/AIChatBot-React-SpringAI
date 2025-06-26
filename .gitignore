@@ -1,14 +1,14 @@
 # ========== Build & Dependency Folders ==========
 /target/
 build/
-.mvn/
+AI-ChatBot-BackEnd/.mvn/
 *.class
 *.jar
 *.war
 *.ear
 
 # ========== Maven Wrapper ==========
-.mvn/wrapper/maven-wrapper.jar
+AI-ChatBot-BackEnd/.mvn/wrapper/maven-wrapper.jar
 
 # ========== Logs ==========
 *.log
@@ -21,7 +21,7 @@ Thumbs.db
 
 # ========== IDEs ==========
 # IntelliJ
-.idea/
+AI-ChatBot-BackEnd/.idea/
 *.iws
 *.iml
 *.ipr
