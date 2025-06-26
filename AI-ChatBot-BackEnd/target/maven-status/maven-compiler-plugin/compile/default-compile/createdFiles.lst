@@ -1,0 +1,5 @@
+com\example\spring\AI\LocalAI\OllamaMistralController\OllamaStreamController.class
+com\example\spring\AI\LocalAI\LocalAiApplication.class
+com\example\spring\AI\LocalAI\OpenAIController\ChatGptController.class
+com\example\spring\AI\LocalAI\Services\OllamaService.class
+com\example\spring\AI\LocalAI\OllamaMistralController\OllamaController.class
