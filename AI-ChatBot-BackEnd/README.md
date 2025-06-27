@@ -1,4 +1,4 @@
-# 🧠 Spring Boot Ollama Chat Backend
+# 🧠 Spring AI Ollama Chat Backend
 
 A simple REST API for interacting with local Ollama models using streaming and non-streaming endpoints.
 
