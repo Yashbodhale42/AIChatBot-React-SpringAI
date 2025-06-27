@@ -1,8 +1,9 @@
 # Stage 1: Build the application
 FROM eclipse-temurin:21-jdk AS build
+RUN apt-get update && apt-get install -y maven
 WORKDIR /app
 COPY . .
-RUN ./mvnw clean package -DskipTests
+RUN mvn clean package -DskipTests
 
 # Stage 2: Run the application
 FROM eclipse-temurin:21-jre
