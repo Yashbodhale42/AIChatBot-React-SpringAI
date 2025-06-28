@@ -45,23 +45,28 @@ AIChatBot-React-SpringAI/
 
 🐳 Run with Docker Compose
 
-docker-compose up --build
+- docker-compose up --build
 
+---
 
 🧪 Tech Stack
-Java 17
-Spring Boot with SpringAI
-WebFlux + WebClient
-Ollama LLM / OpenAI
-Docker
-SSE (Server-Sent Events)
+
+- Java 17+
+- Spring Boot with SpringAI
+- WebFlux + WebClient
+- Ollama LLM / OpenAI
+- Docker
+- SSE (Server-Sent Events) for streaming
+
+---
+
 
 📌 TODO (Optional Enhancements)
-Add authentication (JWT)
-Switch between OpenAI and Ollama dynamically
-Save chat history in database
-Deploy via Render/Vercel
+- Add authentication (JWT)
+- Switch between OpenAI and Ollama dynamically
+- Save chat history in database
 
+---
 
 👤 Author
 Yash Bodhale
