@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/54cacf9c-5677-4442-8b13-0178c18bf3fd)
+
 # AIChatBot-React-SpringAI
 
 A full-stack AI chatbot application powered by [Ollama](https://ollama.com/) (or OpenAI API), built using:
