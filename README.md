@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/54cacf9c-5677-4442-8b13-0178c18bf3fd)
+![image](https://github.com/user-attachments/assets/5ee0fb89-2874-497c-ad2d-88a4386f859b)
 
 # AIChatBot-React-SpringAI
 
