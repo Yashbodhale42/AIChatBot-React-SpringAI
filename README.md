@@ -2,12 +2,12 @@
 
 # AIChatBot-React-SpringAI
 
-A full-stack AI chatbot application powered by [Ollama](https://ollama.com/) (or OpenAI API), built using:
+A full-stack AI chatbot application powered by [Ollama](https://ollama.com/)/ OpenAI API), built using:
 
-- ⚙️ **Spring Boot (Java)** for the backend
-- 💬 **LLM** support via Ollama or OpenAI
-- 🐳 **Docker** + `docker-compose` for containerization
-- 🌐 (Coming Soon) **ReactJS** frontend
+- 🔙 **Spring Boot** (Backend) with Spring AI & Ollama/OpenAI API
+- 🔛 **WebClient Streaming** integration
+- 🌐 **ReactJS + Tailwind CSS** (Frontend)
+- 🐳 **Dockerized** services with `docker-compose`
 
 ---
 
@@ -15,12 +15,10 @@ A full-stack AI chatbot application powered by [Ollama](https://ollama.com/) (or
 
 AIChatBot-React-SpringAI/
 ├── AI-ChatBot-BackEnd/ # Spring Boot backend
-│ ├── src/
-│ ├── pom.xml
-│ ├── Dockerfile
-│ ├── docker-compose.yml
-│ └── README.md (this file)
-├── (Coming Soon) Frontend/
+├── AI-ChatBot-FrontEnd/ # React frontend
+├── docker-compose.yml # For fullstack container orchestration
+├── README.md
+└── .gitignore
 
 
 
