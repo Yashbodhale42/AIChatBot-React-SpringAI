@@ -33,7 +33,6 @@ AIChatBot-React-SpringAI/
 
 ---
 
-## 🛠️ Getting Started
 
 ### 🧾 Prerequisites
 
@@ -45,6 +44,7 @@ AIChatBot-React-SpringAI/
 
 
 🐳 Run with Docker Compose
+
 docker-compose up --build
 
 
@@ -55,6 +55,12 @@ WebFlux + WebClient
 Ollama LLM / OpenAI
 Docker
 SSE (Server-Sent Events)
+
+📌 TODO (Optional Enhancements)
+Add authentication (JWT)
+Switch between OpenAI and Ollama dynamically
+Save chat history in database
+Deploy via Render/Vercel
 
 
 👤 Author
