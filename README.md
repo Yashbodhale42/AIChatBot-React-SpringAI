@@ -63,7 +63,7 @@ AIChatBot-React-SpringAI/
 
 📌 TODO (Optional Enhancements)
 - Add authentication (JWT)
-- Switch between OpenAI ,Ollama and Other LLM dynamically
+- Switch between OpenAI ,Gemini, Ollama and Other LLM dynamically
 - Save chat history in database
 
 ---
